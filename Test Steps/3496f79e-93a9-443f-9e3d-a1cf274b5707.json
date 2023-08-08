@@ -1,0 +1,8 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_home",
+        "step 2: At Page_home click on hyperlink_javascript_",
+        "step 3: At Page_home click on hyperlink_ui_cards_html --> navigate to Page_ui-cards_html",
+        "step 4: Add visual checkpoint at Page_ui-cards_html"
+    ]
+}
